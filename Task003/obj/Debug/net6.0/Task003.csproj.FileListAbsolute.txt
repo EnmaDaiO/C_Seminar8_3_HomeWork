@@ -1,0 +1,15 @@
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\bin\Debug\net6.0\Task003.exe
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\bin\Debug\net6.0\Task003.deps.json
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\bin\Debug\net6.0\Task003.runtimeconfig.json
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\bin\Debug\net6.0\Task003.dll
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\bin\Debug\net6.0\Task003.pdb
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\Task003.csproj.AssemblyReference.cache
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\Task003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\Task003.AssemblyInfoInputs.cache
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\Task003.AssemblyInfo.cs
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\Task003.csproj.CoreCompileInputs.cache
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\Task003.dll
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\refint\Task003.dll
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\Task003.pdb
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\Task003.genruntimeconfig.cache
+D:\Документ\GeekBrains\C#Seminar8(3)HomeWork\Task003\obj\Debug\net6.0\ref\Task003.dll
